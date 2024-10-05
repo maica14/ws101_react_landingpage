@@ -1,0 +1,42 @@
+.webdev {
+    font-size: 3vw;
+    margin-top: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.a_container{
+    margin-top: 5vh;
+    padding: 5vw;
+    background-color: #1E2A5E;
+}
+.definition {
+    display: flex; 
+    flex-wrap: wrap; 
+}
+p {
+    margin-left: 5vw;
+    margin-right: 5vw;
+    flex: 1;
+    font-size: 2.5vw;
+}
+.img {
+    width: 30vw; 
+    height: auto;
+    float: right;
+    margin-right: 5vw;
+    margin-top: 5vh;
+}
+.button2{
+    font-size: 2vw;
+    text-decoration: none;
+    color: black;
+    background-color: #7C93C3;
+    padding: 3vh 4vw; 
+}
+.button2:hover {
+    background-color: #E1D7B7;
+}
+.action2 {
+    text-align: center;
+}
